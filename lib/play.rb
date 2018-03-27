@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-end
-
-  
+  i = 0
+  while (i < 9)
+  i += 1  
+end    
